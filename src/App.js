@@ -1,11 +1,12 @@
 import "./App.css"
-import { Test } from "./components"
+import { Navbar } from "./components"
+// import {BrowseRouter as Router, Routes, Route} from "react-router-dom"
 
 function App() {
   return (
-    <div className="App">
-      <Test />
-    </div>
+    <>
+      <Navbar />
+    </>
   )
 }
 
