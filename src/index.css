@@ -3,6 +3,9 @@
 :root {
   --font-family: "Exo 2", sans-serif;
 
+  --gradient-text: ;
+  --gradient-bar: linear-gradient(0deg, #949494ff, #424241ff, #3a3a3aff, #212121ff, #2e2e2eff);
+
   --color-bg: #424241ff;
   --color-footer: #212121ff;
   --color-section: #3a3a3aff;

@@ -2,7 +2,13 @@ import React from "react"
 import "./navbar.css"
 
 function Navbar() {
-  return <div>Navbar</div>
+  return (
+    <>
+      <nav className="navbar">
+        <div className="navbar-container"></div>
+      </nav>
+    </>
+  )
 }
 
 export default Navbar
