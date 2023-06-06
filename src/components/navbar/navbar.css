@@ -7,3 +7,8 @@
   height: 80px;
   border: 1px solid;
 }
+
+.menu-icon {
+  display: block;
+  border: 1px solid;
+}
